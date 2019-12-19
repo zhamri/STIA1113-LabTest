@@ -5,11 +5,13 @@
 ### Time: 3.30pm - 5.30pm (2 HOURS)
 ### Venue: Computer Lab
 
+---
 ## INSTRUCTION:
 
 1. This LabTest has __TWO (2)__ questions.
 2. Answer all questions.
 
+---
 ## SUBMISSION:
 
 1. This LabTest must be submitted to your GitHub repository by using the following format:     
@@ -23,6 +25,7 @@ The submission must also follow the guideline below:
    https://github.com/zhamri/STIA1113-LabTest/issues/1
 1. Share your `private` repository with `zhamri`
 
+---
 ## Guideline for Sharing Repository
 
 1. Click `Setting`
