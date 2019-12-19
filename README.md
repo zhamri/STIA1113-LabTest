@@ -8,7 +8,9 @@
 ---
 ## INSTRUCTION:
 
-1. This LabTest has __TWO (2)__ questions.
+1. This LabTest has __TWO (2)__ questions:   
+   * [Question-1](https://github.com/zhamri/STIA1113-LabTest/blob/master/Question-1.md)
+   * [Question-2](https://github.com/zhamri/STIA1113-LabTest/blob/master/Question-2.md)
 2. Answer all questions.
 
 ---
